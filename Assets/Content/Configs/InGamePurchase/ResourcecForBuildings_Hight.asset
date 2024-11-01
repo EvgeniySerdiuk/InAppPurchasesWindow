@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5cb9253000b41a7871bf5a5220d06e0, type: 3}
+  m_Name: ResourcecForBuildings_Hight
+  m_EditorClassIdentifier: 
+  <Title>k__BackingField: Much resources
+  <Description>k__BackingField: "\u041F\u043E\u043A\u043E\u0440\u0438 \u043D\u0435\u0431\u0435\u0441\u0430,
+    \u043F\u043E\u0441\u0442\u0440\u043E\u0439 \u043F\u043B\u043E\u0442 \u0441\u0432\u043E\u0435\u0439
+    \u043C\u0435\u0447\u0442\u044B."
+  <Icon>k__BackingField: {fileID: 21300000, guid: ea292d445b1c4cb48897511cd9453f1c, type: 3}
+  <Price>k__BackingField: 5.99
+  <PriceFormat>k__BackingField: '{0}$'
+  <DiscountPriceFormat>k__BackingField: <s><size=20>{0}$</s>
+  <DiscountPercent>k__BackingField: 15
+  <Items>k__BackingField:
+  - <Item>k__BackingField: {fileID: 11400000, guid: f5efaabfed3d75d4d8f982467db333fa, type: 2}
+    <Amount>k__BackingField: 20
+  - <Item>k__BackingField: {fileID: 11400000, guid: 4a84cfad6bcf59241829b48ecd642174, type: 2}
+    <Amount>k__BackingField: 20
+  - <Item>k__BackingField: {fileID: 11400000, guid: cdc1608aabd97284aaa2c5340bd07b5a, type: 2}
+    <Amount>k__BackingField: 20
+  - <Item>k__BackingField: {fileID: 11400000, guid: ec5ac9b4127ba8a438b5ebd86b5bd038, type: 2}
+    <Amount>k__BackingField: 20
+  - <Item>k__BackingField: {fileID: 11400000, guid: 0f53d9423474012438e7ca9945f0f988, type: 2}
+    <Amount>k__BackingField: 20
